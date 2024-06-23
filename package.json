@@ -13,7 +13,7 @@
   },
 
   "lint-staged": {
-    "*.ts": "eslint --fix"
+    "*.ts": "eslint"
   },
 
   "private": true,
