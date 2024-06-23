@@ -12,10 +12,10 @@
     "prepare": "husky"
   },
 
-  "Lint-staged": {
+  "lint-staged": {
     "*.ts": "eslint --fix"
   },
-  
+
   "private": true,
   "dependencies": {
     "@angular/animations": "^18.0.0",
