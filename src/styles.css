@@ -16,5 +16,13 @@
 }
 
 .text-nav {
-    @apply font-bold font-mono text-3xl
+    @apply font-bold font-inter text-3xl
+}
+
+.text-main-h2 {
+    @apply font-bold font-inter sm:text-3xl
+}
+
+.text-main-p {
+    @apply font-inter font-normal sm:text-xl
 }
