@@ -26,3 +26,11 @@
 .text-main-p {
     @apply font-inter font-normal sm:text-xl
 }
+
+.shadow-card {
+    @apply shadow-lg rounded-lg
+}
+
+.card-hover {
+    @apply hover:bg-light-blue
+}
